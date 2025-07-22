@@ -1,6 +1,6 @@
 result=0
 def add_two(num) :
-    return(num + 2)
+    return num + 2 
 
 print(add_two(4))
 print(add_two(8))
